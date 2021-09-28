@@ -1,0 +1,12 @@
+{
+   "format_version": "1.16.0",
+   "minecraft:item": {
+      "description": {
+         "identifier": "cubecraft:slime_wand"
+      },
+      "components" : {
+         "minecraft:icon" : "cubecraft:slime_wand",
+         "minecraft:hand_equipped": true
+      }
+   }
+}

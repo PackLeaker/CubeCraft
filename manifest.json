@@ -1,0 +1,19 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "CubeCraft Resource Pack",
+    "name": "CubeCraft Resource Pack",
+    "uuid": "edfec253-9bf3-48d1-93ec-72c6e4afc53b",
+    "version": [1, 1, 7],
+    "min_engine_version": [ 1, 14, 0 ]
+  },
+  "modules": [
+    {
+      "description": "CubeCraft Resource Pack",
+      "name": "CubeCraft Resource Pack",
+      "type": "resources",
+      "uuid": "24e6ac75-02e1-4333-8cc7-0c434f03f6f7",
+      "version": [1, 1, 7]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+   "format_version": "1.16.0",
+   "minecraft:item": {
+      "description": {
+         "identifier": "cubecraft:dragon_wand"
+      },
+      "components" : {
+         "minecraft:icon" : "cubecraft:dragon_wand",
+         "minecraft:hand_equipped": true
+      }
+   }
+}

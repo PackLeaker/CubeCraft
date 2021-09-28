@@ -1,0 +1,39 @@
+{
+  "resource_pack_name": "CubeCraft Resource Pack",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "cubecraft:dragon_wand": {
+      "textures": "textures/items/cc/lucky_islands/dragon_wand"
+    },
+    "cubecraft:frost_wand": {
+      "textures": "textures/items/cc/lucky_islands/frost_wand"
+    },
+    "cubecraft:invisibility_wand": {
+      "textures": "textures/items/cc/lucky_islands/invisibility_wand"
+    },
+    "cubecraft:lucky_block_wand": {
+      "textures": "textures/items/cc/lucky_islands/lucky_block_wand"
+    },
+    "cubecraft:potion_wand_negativity": {
+      "textures": "textures/items/cc/lucky_islands/potion_wand_negativity"
+    },
+    "cubecraft:potion_wand_positivity": {
+      "textures": "textures/items/cc/lucky_islands/potion_wand_positivity"
+    },
+    "cubecraft:regen_wand": {
+      "textures": "textures/items/cc/lucky_islands/regen_wand"
+    },
+    "cubecraft:shield_wand": {
+      "textures": "textures/items/cc/lucky_islands/shield_wand"
+    },
+    "cubecraft:slime_wand": {
+      "textures": "textures/items/cc/lucky_islands/slime_wand"
+    },
+    "cubecraft:thors_hammer": {
+      "textures": "textures/items/cc/lucky_islands/thors_hammer"
+    },
+    "cubecraft:tnt_wand": {
+      "textures": "textures/items/cc/lucky_islands/tnt_wand"
+    }
+  }
+}

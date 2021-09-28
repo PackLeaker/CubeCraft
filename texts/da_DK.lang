@@ -1,0 +1,13 @@
+﻿action.hint.exit.player=Tryk på snig for at sidde af	#
+
+item.cubecraft:dragon_wand.name=Dragon Wand
+item.cubecraft:frost_wand.name=Frostpath Wand
+item.cubecraft:invisibility_wand.name=Invisibility Wand
+item.cubecraft:lucky_block_wand.name=Lucky Block Wand
+item.cubecraft:potion_wand_negativity.name=Potion Wand
+item.cubecraft:potion_wand_positivity.name=Potion Wand
+item.cubecraft:regen_wand.name=Regen Wand
+item.cubecraft:shield_wand.name=Shield Wand
+item.cubecraft:slime_wand.name=Slime Wand
+item.cubecraft:thors_hammer.name=Thor's Hammer
+item.cubecraft:tnt_wand.name=TNT Wand

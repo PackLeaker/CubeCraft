@@ -1,0 +1,26 @@
+{
+    "format_version": "1.8.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "cubecraft:ice_shard",
+            "materials": {
+                "default": "entity_alphatest"
+            },
+            "textures": {
+                "default": "textures/cc/effect/win/icicle"
+            },
+            "geometry": {
+                "default": "geometry.cubecraft.effect.win.ice_shard"
+            },
+            "animations": {
+                "default": "animation.effect.win.ice_shard"
+            },
+            "animation_controllers": [
+                {
+                    "general": "controller.animation.effect.win.ice_shard"
+                }
+            ],
+            "render_controllers": [ "controller.render.agent" ]
+        }
+    }
+}

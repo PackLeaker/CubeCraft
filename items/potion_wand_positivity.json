@@ -1,0 +1,12 @@
+{
+   "format_version": "1.16.0",
+   "minecraft:item": {
+      "description": {
+         "identifier": "cubecraft:potion_wand_positivity"
+      },
+      "components" : {
+         "minecraft:icon" : "cubecraft:potion_wand_positivity",
+         "minecraft:hand_equipped": true
+      }
+   }
+}
